@@ -1,4 +1,8 @@
 /*==Style cho menu===*/
+a:hover{
+  color:yellow;
+  background-color: aqua;
+}
 #menu ul {
     background: #1F568B;
     list-style-type: none;
