@@ -10,6 +10,7 @@
     display: inline-block;
     width: auto;
     height: 24px;
+    margin-left: 120px;
 }
 .logotuoitre{
     width: 80px;
@@ -42,8 +43,9 @@
     margin-left: 170px;
 }
 .title2{
+    margin-left: 90px; 
     height: 47px;
-    width: 100%;
+    width: auto;
     background-image:  linear-gradient(to left,#9f041b,#e32);
     display: inline-block;
 }
